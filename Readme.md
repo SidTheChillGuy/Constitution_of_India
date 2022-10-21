@@ -15,4 +15,4 @@ This is a GitHub repository of The Constitution of India. This may help people l
 **System:**	Federal Parliamentary Constitutional Republic<br>
 **Amendments:** [105](https://github.com/Constitution-of-India/Constitution_of_India/commits/staging "105")<br>
 **Last Amended:** 10th August 2021 (105th)<br>
-**Author(s):** B. R. Ambedkar, B. N. Rau, Surendra Nath Mukherjee and more. ([more info here](https://qr.ae/pvxvz2 "more info here"))<hr>**<p align="center">How to use this project?</p>**<br>*Will be updated soon...*<hr>**<p align="center">Important Links</p>** <br> *Soon...*
+**Author(s):** B. R. Ambedkar, B. N. Rau, Surendra Nath Mukherjee and more. ([more info here](https://qr.ae/pvxvz2 "more info here"))<hr>**<p align="center">How to use this project?</p>**<br>*Will be updated soon...*<hr>**<p align="center">Important Links</p>** <br> *https://legislative.gov.in/constitution-of-india*
